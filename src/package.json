@@ -1,0 +1,14 @@
+{
+  "name": "pluralsight_texttospeech_javascript",
+  "version": "1.0.0",
+  "description": "This is the Pluralsight demo for Cognitive Services: Text to Speech",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jared Rhodes",
+  "license": "ISC",
+  "dependencies": {
+    "node-rest-client": "^3.1.0"
+  }
+}
